@@ -16,7 +16,7 @@
 		"timeout": 150
 	}
 	],
-	"user": "RQnnfySQU1V86mBMQbHoVbd79gcC2GSPrv.PHONE_FARM",
+	"user": "RQnnfySQU1V86mBMQbHoVbd79gcC2GSPrv,
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
